@@ -13,8 +13,8 @@ list_of_files=[
     "src/pipeline/training_pipeline.py",
     "src/pipeline/prediction_pipeline.py",
     "src/utils/utils.py",
-    "src/loger/logging.py"
-    "src/exception/exception",
+    "src/loger/logging.py",
+    "src/exception/exception.py",
     "test/unit/__init__py",
     "test/integration/__init__py",
     "init_setup.sh",
